@@ -25,6 +25,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yash-biyani-8b63791a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-biyani" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/user:11202822" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:11202822" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/14438866/yash-biyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yash-biyani" height="30" width="30" /></a>
 <a href="https://www.instagram.com/yash__biyani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yash__biyani" height="30" width="30" /></a>
 </p>
