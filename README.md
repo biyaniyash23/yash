@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biyaniyash23" alt="biyaniyash23" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, Javascript**
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **just about anything**
 
