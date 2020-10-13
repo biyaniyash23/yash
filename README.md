@@ -1,7 +1,7 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Biyani</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biyaniyash23" alt="biyaniyash23" /> </p>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=biyaniyash23.biyaniyash23" /> </p>
 
 - 🌱 I’m currently learning **Everything**
 
