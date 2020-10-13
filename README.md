@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **just about anything**
 
-- 👨‍💻 All of my projects are available at [github.com/biyaniyash23](github.com/biyaniyash23)
+- 👨‍💻 All of my projects are available at [github.com/biyaniyash23](https://github.com/biyaniyash23?tab=projects)
 
 - 💬 Ask me about **Python, Java or life.**
 
