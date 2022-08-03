@@ -14,10 +14,6 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biyaniyash23&show_icons=true" alt="biyaniyash23" /></p>
 
