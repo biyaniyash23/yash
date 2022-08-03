@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yash.biyani23@gmail.com**
 
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 ### Blogs posts
 
